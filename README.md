@@ -13,6 +13,8 @@ My contacts:
 
 📬   E-Mail Gilion@icloud.com
 
+:arrow_right: linkedin https://www.linkedin.com/in/vi-soff/
+
 <!---
 Gilions/Gilions is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
