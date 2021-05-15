@@ -1,14 +1,17 @@
-- 👋 Hi, I’m Vitaly Sofronyuk
-- 👀 I’m interested in Web technologies, Python, Django
-- 🌱 I’m currently learning Django, REST Framework, Python
-- 💞️ I’m looking to collaborate at work:)
+👋  Hi, I’m Vitaly Sofronyuk, i live in Moscow.
+
+I’m interested in Web technologies, Python, Django, REST API
+
+I’m currently learning Django, REST Framework, Python
+
+At the moment I am in search of work, i will be glad to your suggestions.
 
 
 My contacts:
 
-📨 Telegram @Gilion_S
+📨  Telegram @Gilion_S
 
-📬  E-Mail Gilion@icloud.com
+📬   E-Mail Gilion@icloud.com
 
 <!---
 Gilions/Gilions is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
