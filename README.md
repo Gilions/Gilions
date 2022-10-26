@@ -26,7 +26,7 @@ My technology stack:
         <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
     </a>
     <a href="https://www.rabbitmq.com/" target="blank">
-        <img alt="Docker" src="https://img.shields.io/badge/Rabbitmq-ffa500?style=for-the-badge&logo=rabbitmq&logoColor=white">
+        <img alt="rabbitmq" src="https://img.shields.io/badge/Rabbitmq-ffa500?style=for-the-badge&logo=rabbitmq&logoColor=white">
     </a>
     <a href="https://www.elastic.co/elasticsearch/" target="blank">
         <img src="https://img.shields.io/badge/ElasticSearch-065535?style=for-the-badge&logo=elasticsearch&logoColor=white" />
@@ -35,17 +35,17 @@ My technology stack:
         <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
    </a>
     <a href="https://www.mongodb.com/" target="blank">
-        <img alt="Docker" src="https://img.shields.io/badge/Mongodb-00693E?style=for-the-badge&logo=mongodb&logoColor=white">
+        <img alt="mongodb" src="https://img.shields.io/badge/Mongodb-00693E?style=for-the-badge&logo=mongodb&logoColor=white">
    </a>
    <a href="https://www.postgresql.org/" target="blank">
-        <img alt="Docker" src="https://img.shields.io/badge/Postgresql-1560BD?style=for-the-badge&logo=postgresql&logoColor=white">
+        <img alt="postgresql" src="https://img.shields.io/badge/Postgresql-1560BD?style=for-the-badge&logo=postgresql&logoColor=white">
    </a>
     <a href="https://clickhouse.com/" target="blank">
-        <img alt="Docker" src="https://img.shields.io/badge/Clickhouse-FFA500?style=for-the-badge&logo=clickhouse&logoColor=white">
+        <img alt="clickhouse" src="https://img.shields.io/badge/Clickhouse-FFA500?style=for-the-badge&logo=clickhouse&logoColor=white">
    </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=Gilions&show_icons=true&theme=gruvbox&hide_title=true&card_width=500)
+![Git statistic](https://github-readme-stats.vercel.app/api?username=Gilions&show_icons=true&theme=gruvbox&hide_title=true&card_width=500)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilions&layout=compact&hide_title=true&theme=gruvbox&card_width=450)
 
