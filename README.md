@@ -19,6 +19,9 @@ My technology stack:
     <a href="https://fastapi.tiangolo.com/" target="blank">
         <img src="https://img.shields.io/badge/FastApi-3BB08F?style=for-the-badge&logo=fastapi&logoColor=white" />
     </a>
+    <a href="https://docs.celeryq.dev/en/stable/" target="blank">
+        <img src="https://img.shields.io/badge/celery-%7fff00.svg?style=for-the-badge&logo=celery&logoColor=white"/>
+    </a>
     <a href="https://kafka.apache.org/" target="blank">
         <img src="https://img.shields.io/badge/Kafka-444a51?style=for-the-badge&logo=apache-kafka&logoColor=white" />
     </a>
